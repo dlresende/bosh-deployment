@@ -71,6 +71,7 @@
     domain: ((openstack_domain))
     project: ((openstack_project))
     region: ((region))
+    tenant: ((openstack_tenant))
     default_key_name: ((default_key_name))
     default_security_groups: ((default_security_groups))
     human_readable_vm_names: true
