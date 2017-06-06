@@ -17,7 +17,7 @@
 - type: replace
   path: /resource_pools/name=vms/cloud_properties?
   value:
-    instance_type: m1.xlarge
+    instance_type: b2-15
     availability_zone: ((az))
 
 - type: replace
